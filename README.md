@@ -1,2 +1,15 @@
-# javascript-music-player1
- My first advanced JavaScript project with music
+# 🎵 JavaScript Music Player
+
+This is my first advanced JavaScript project.
+
+## Features
+- Play & Pause music
+- Modern UI
+- Beginner-friendly code
+
+## Tech Used
+- HTML
+- CSS
+- JavaScript
+
+🚀 Learning GitHub step by step
